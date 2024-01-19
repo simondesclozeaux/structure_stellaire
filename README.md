@@ -41,4 +41,5 @@ cd structure_stellaire
 python simulation.py
 python vp.py
 ```
-## Remarque importante : Si l'étoile simulée n'est pas le Soleil, il est recommandé de mener des recherches spécifiques sur les propriétés et les lois physiques régissant cette étoile, afin d'obtenir des résultats de simulation plus précis.
+## Remarque importante : 
+Si l'étoile simulée n'est pas le Soleil, il est recommandé de mener des recherches spécifiques sur les propriétés et les lois physiques régissant cette étoile, afin d'obtenir des résultats de simulation cohérent.
