@@ -30,7 +30,7 @@ pip instant simpy
 ## Utilisation
 1. **Cloner le dépôt sur votre machine local.**
    ```bash
-   git clone
+   git clone https://github.com/simondesclozeaux/structure_stellaire.git
    ```
 2. **Accédez au répertoire du projet.**
 ```bash
