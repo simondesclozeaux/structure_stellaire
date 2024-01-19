@@ -38,7 +38,7 @@ cd structure_stellaire
 ```
 3. **Exécutez le programme en utilisant Python.**
 ```bash
-python simulation.py
+python simulation_stellaire.py
 python vp.py
 ```
 ## Remarque importante : 
